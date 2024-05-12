@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+
+<html lang = "pt-br">
+
+<head>
+    <meta charset = "UTF-8">
+    <meta http-equiv = "X-UA-Compatible" content = "IE =e dge">
+    <meta name = "viewport" content = "width = device-width, initial-scale = 1.0">
+    <title>Formulário de Inscrição</title>
+</head>
+   
+<body>
+    <h1><b>Formulário de Inscrição</b></h1>
+
+    <main>
+        <form action = "gravar_dados.php" method="post">
+            <h2><b>Preencha seus dados</b></h2>
+
+            <p>Nome:<input type = "text" name = "nome"/></p>
+            <p>E-mail:<input type = "email" name = "email"/></p>
+            <p>Endereço:<input type = "text" name = "endereço"/></p>
+            <p>Cidade:<input type = "text" name = "cidade"/></p>
+            <p>Telefone:<input type = "tel" name = "telefone"/></p>
+            <p>Usuário:<input type = "text" name = "usuario" required placeholder = "Entre com o seu login"/></p>
+            <p>Senha:<input type = "password" name = "senha" size = "20"/></p>
+
+            <input type = "submit" name = "enviar" value = "Finalizar minha inscrição">
+        </form>
+    </main>
+
+</body>
+
+</html>

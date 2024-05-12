@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lange="pt-br">
+<meta charset="UTF-8">
+
+<head>
+    <title>currículo</title>
+</head>
+
+<body>
+
+    <h1><b>CURRÍCULO: José da Silva</b></h1>
+
+    <hr>
+
+    <h2><b>DADOS PESSOAIS</b></h2>
+
+    <p><b>Rua:</b> José de Alencar, 123</p>
+    <p><b>Cidade:</b> Itapira/SP</p>
+    <p><b>Telefone:</b> (19)9999-9999</p>
+    &nbsp;
+
+    <hr>
+
+    <h2><b>FORMAÇÃO ACADÊMICA</b></h2>
+
+    <p><b>Escola:</b>Escola Técnica José de Alencar</p>
+    <p><b>Duração:</b>18 meses</p>
+    &nbsp;
+
+    <hr>
+    <h2><b>EXPERIÊNCIA PROFISSIONAL</b></h2>
+
+    <ul>
+        <li>Microsoft office</li>
+        <li>Linux - Fedorax</li>
+        <li>Corel Draw</li>
+    </ul>
+    &nbsp;
+
+    <hr>
+
+    <h4><i>Itapira, 10 de Janeiro de 2017</i></h4>
+</body>
+
+</html>
